@@ -1,0 +1,12 @@
+.navbar{
+    background-color:pink;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+}
+.navbar-brand {
+    color: #000;
+  }
+.bg-pink{
+    background-color: bisque;
+   
+}
